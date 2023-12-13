@@ -42,11 +42,3 @@ A Web Developer, specialized in PHP & JS development
 <a href="http://www.github.com/lekoala"><img src="https://github-readme-stats.vercel.app/api?username=lekoala&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lekoala's GitHub stats" /></a>
 
 <a href="http://www.github.com/lekoala"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lekoala&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/lekoala/bootstrap5-tags" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lekoala&repo=bootstrap5-tags&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lekoala/silverstripe-debugbar" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lekoala&repo=silverstripe-debugbar&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/lekoala/silverstripe-cms-actions" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lekoala&repo=silverstripe-cms-actions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/lekoala/admini" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lekoala&repo=admini&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
