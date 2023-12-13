@@ -4,7 +4,7 @@ Hi 👋 My name is Thomas
 A Web Developer, specialized in PHP & JS development
 
 * 🌍  I'm based in Belgium
-* 🖥️  Read my articles on my [my blog](http://blog.lekoala.be/)
+* 🖥️  Read my articles on [my blog](http://blog.lekoala.be/)
 
 ### Skills
 
